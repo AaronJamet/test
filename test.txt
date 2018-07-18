@@ -3,3 +3,4 @@ This is a second line in the file.
 Hi, I am a clone file!
 
 And I am the second clone!
+Clone1 wants to go ahead and build a game.
