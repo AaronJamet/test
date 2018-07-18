@@ -2,4 +2,8 @@ Another file!
 
 adding a new line in text2, from the first clone
 
+<<<<<<< HEAD
 Clone2 is the best one ever!
+=======
+clone1 is the best!!
+>>>>>>> 9b3e25ec276a5b69b7929c0f0d248a627681a0a6
