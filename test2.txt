@@ -1,1 +1,3 @@
 Another file!
+
+adding a new line in text2, from the first clone
